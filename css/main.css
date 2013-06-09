@@ -1,5 +1,5 @@
 body{
-	font-family: 'verdana', cursive;
+	font-family: 'georgia', cursive;
 	font-size: 0.750em;
 	background-color: #FFF;
 }
@@ -11,5 +11,4 @@ a{
 
 a:hover{
 	color: #ff69b4;
-	background: #fff;
 }

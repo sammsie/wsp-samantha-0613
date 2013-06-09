@@ -1,0 +1,49 @@
+body{
+	font-family: 'georgia', cursive;
+	font-size: 0.750em;
+	background-color: #FFF;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover{
+	color: #ff69b4;
+}
+
+
+header{
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+.main{
+	width: 40%;
+	margin: 0 auto;
+	line-height: 150%;
+	background-color: #eedbdb;
+}
+
+.profile{
+	width: 40%;
+	margin: 0 auto;
+	line-height: 150%;
+	background-color: #f6cdcd;
+}
+
+.perception{
+	width: 40%;
+	margin: 0 auto;
+	line-height: 150%;
+	background-color: #f4aaaa;
+}
+
+.competition{
+	width: 40%;
+	margin: 0 auto;
+	line-height: 150%;
+	background-color: #ef8c8c;
+}
