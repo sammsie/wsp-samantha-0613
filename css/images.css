@@ -1,0 +1,27 @@
+body{
+	font-family: 'georgia', cursive;
+	font-size: 0.750em;
+	background-color: #FFF;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover{
+	color: #ff69b4;
+}
+
+
+header{
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+.main{
+	width: 58%;
+	margin: 0 auto;
+	line-height: 150%;
+}
