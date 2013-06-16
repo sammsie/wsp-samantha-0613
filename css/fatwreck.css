@@ -90,6 +90,23 @@ th {
 
 }
 
+form {
+		width: 100%;
+		line-height: 100%;
+		text-align: left;
+}
+
+input {
+	background-color: #FFF;
+	border: 1px solid #666;
+	
+}
+
+button {
+	background-color: #FFF;
+	border: 1px solid #666;
+	
+}
 
 .column {
 	position:relative;	
