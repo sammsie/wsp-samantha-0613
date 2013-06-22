@@ -34,7 +34,6 @@ p {
 
 img {
 	margin:10px 0 5px;
-	border: 0; 
 }
 
 
@@ -118,17 +117,17 @@ button {
 }
 
 
-.rightcolumn,
-.midcolumn,
-.leftcolumn {
+.featured,
+.maininfo,
+.updates {
 	float:left;
 	width:100%;			
 	position:relative;
 }
 
-.columnone,
-.columntwo,
-.columnthree {
+.one,
+.two,
+.three {
 	float:left;
 	position:relative;
 	padding:0 0 1em 0;	
@@ -136,31 +135,32 @@ button {
 }
 
 
-.rightcolumn {
+.featured {
 	background:#eee;		
 }
-.rightcolumn .midcolumn {
+.featured .maininfo {
 	right:25%;			
 	background:#fff;		
 }
 
 
-.rightcolumn .leftcolumn {
+.featured .updates {
 	right:50%;			
 	background:#f4f4f4;	
 }
-.rightcolumn .columnone {
+.featured .one {
 	width:46%;			
 	left:102%;			
 }
-.rightcolumn .columntwo {
+.featured .two {
 	width:21%;			
 	left:31%;			
 }
-.rightcolumn .columnthree {
+.featured .three {
 	width:21%;			
 	left:85%;			
 }	
+
 
 
 #footer {
@@ -173,4 +173,32 @@ button {
 #footer p {
 	padding:10px;
 	margin:0;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+background:#C1C1C1;	
+
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+
+background:#BBB;
+
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+
+background:#FFF;
+
 }
