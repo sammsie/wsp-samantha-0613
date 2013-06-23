@@ -178,7 +178,7 @@ button {
 
 /* Media Queries */
 
-@media only screen 
+@media screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
 
@@ -223,7 +223,7 @@ img {
 
 /* Mobile Landscape  */
 
-@media only screen 
+@media screen 
 and (min-device-width : 450px) 
 and (max-device-width : 680px) {
 
@@ -267,9 +267,8 @@ img {
 
 /* Mobile Landscape  */
 
-@media
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
+@media screen and (-webkit-min-device-pixel-ratio : 1.5),
+screen and (min-device-pixel-ratio : 1.5) {
 
 body {
 	background-color: #CCC;
