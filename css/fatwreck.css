@@ -148,6 +148,19 @@ button {
 	right:50%;			
 	background:#f4f4f4;	
 }
+.featured .one {
+	width:46%;			
+	left:102%;			
+}
+.featured .two {
+	width:21%;			
+	left:31%;			
+}
+.featured .three {
+	width:21%;			
+	left:85%;			
+}	
+
 
 
 #footer {
@@ -176,6 +189,11 @@ button {
 	}
 	
 
+.featured .updates {
+	float: none;
+	right:100%;			
+	background:#f4f4f4;	
+}
 .featured .one {
 	float: none;
 	width:100%;			
@@ -204,6 +222,12 @@ button {
 		
 	}
 
+
+.featured .updates {
+	float: none;
+	right:100%;			
+	background:#f4f4f4;	
+}
 .featured .one {
 	float: none;
 	width:100%;			
@@ -218,7 +242,7 @@ button {
 	float: none;
 	width:100%;			
 	left:100%;			
-}
+}	
 
 }
 
@@ -232,6 +256,12 @@ button {
 		
 	}
 
+
+.featured .updates {
+	float: none;
+	right:100%;			
+	background:#f4f4f4;	
+}
 .featured .one {
 	float: none;
 	width:100%;			
@@ -246,6 +276,6 @@ button {
 	float: none;
 	width:100%;			
 	left:100%;			
-}
+}	
 
 }
