@@ -148,19 +148,6 @@ button {
 	right:50%;			
 	background:#f4f4f4;	
 }
-.featured .one {
-	width:46%;			
-	left:102%;			
-}
-.featured .two {
-	width:21%;			
-	left:31%;			
-}
-.featured .three {
-	width:21%;			
-	left:85%;			
-}	
-
 
 
 #footer {
@@ -189,21 +176,21 @@ button {
 	}
 	
 
-.featured,
-.maininfo,
-.updates {
-	float:none;
-
+.featured .one {
+	float: none;
+	width:100%;			
+	left:100%;			
 }
-
-.one,
-.two,
-.three {
-	float:none;
-	position:relative;
-	padding:0 0 1em 0;	
-	overflow:hidden;
+.featured .two {
+	float: none;
+	width:100%;			
+	left:100%;			
 }
+.featured .three {
+	float: none;
+	width:100%;			
+	left:100%;			
+}	
 
 }
 
@@ -217,20 +204,20 @@ button {
 		
 	}
 
-.featured,
-.maininfo,
-.updates {
-	float:none;
-
+.featured .one {
+	float: none;
+	width:100%;			
+	left:100%;			
 }
-
-.one,
-.two,
-.three {
-	float:none;
-	position:relative;
-	padding:0 0 1em 0;	
-	overflow:hidden;
+.featured .two {
+	float: none;
+	width:100%;			
+	left:100%;			
+}
+.featured .three {
+	float: none;
+	width:100%;			
+	left:100%;			
 }
 
 }
@@ -245,20 +232,20 @@ button {
 		
 	}
 
-.featured,
-.maininfo,
-.updates {
-	float:none;
-
+.featured .one {
+	float: none;
+	width:100%;			
+	left:100%;			
 }
-
-.one,
-.two,
-.three {
-	float:none;
-	position:relative;
-	padding:0 0 1em 0;	
-	overflow:hidden;
+.featured .two {
+	float: none;
+	width:100%;			
+	left:100%;			
+}
+.featured .three {
+	float: none;
+	width:100%;			
+	left:100%;			
 }
 
 }
