@@ -117,17 +117,17 @@ button {
 }
 
 
-.rightcolumn,
-.midcolumn,
-.leftcolumn {
+.featured,
+.maininfo,
+.updates {
 	float:left;
 	width:100%;			
 	position:relative;
 }
 
-.columnone,
-.columntwo,
-.columnthree {
+.one,
+.two,
+.three {
 	float:left;
 	position:relative;
 	padding:0 0 1em 0;	
@@ -135,28 +135,28 @@ button {
 }
 
 
-.rightcolumn {
+.featured {
 	background:#eee;		
 }
-.rightcolumn .midcolumn {
+.featured .maininfo {
 	right:25%;			
 	background:#fff;		
 }
 
 
-.rightcolumn .leftcolumn {
+.featured .updates {
 	right:50%;			
 	background:#f4f4f4;	
 }
-.rightcolumn .columnone {
+.featured .none {
 	width:46%;			
 	left:102%;			
 }
-.rightcolumn .columntwo {
+.featured .two {
 	width:21%;			
 	left:31%;			
 }
-.rightcolumn .columnthree {
+.featured .three {
 	width:21%;			
 	left:85%;			
 }	
@@ -174,10 +174,9 @@ button {
 	margin:0;
 }
 
+
+
 /* Media Queries */
-
-
-/* Tablet Screen 960 */
 
 @media screen and (min-width: 768px) and (max-width: 925px) {
 
