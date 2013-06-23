@@ -179,14 +179,17 @@ button {
 
 /* Tablet Screen 960 */
 
-@media screen and (min-width: 768px) and (max-width: 959px) {
+@media screen and (min-width: 768px) and (max-width: 925px) {
 
 	body {
 		background-color: #CCC;
 		font-family: arial;
 		
-	}
+}
+
+img {display: none;
 	
+}	
 
 .featured .updates {
 	float: none;
@@ -213,14 +216,17 @@ button {
 
 /* Mobile Landscape  */
 
-@media screen and (min-width: 480px) and (max-width: 767px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
 
 	body {
 		background-color: #CCC;
 		font-family: arial;
 		
-	}
+}
 
+img {display: none;
+	
+}
 
 .featured .updates {
 	float: none;
@@ -247,7 +253,7 @@ button {
 
 /* Mobile Landscape  */
 
-@media screen and (max-width: 479px) {
+@media screen and (max-width: 500px) {
 
 	body {
 		background-color: #CCC;
@@ -255,6 +261,10 @@ button {
 		
 	}
 
+img {display: none;
+	
+}
+	
 
 .featured .updates {
 	float: none;
