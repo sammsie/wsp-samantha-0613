@@ -197,16 +197,19 @@ body {
 	
 
 .featured .updates .maininfo {
+	clear: both;
 	width:100%;			
 	background:#f4f4f4;	
 }
 
 .featured .one {
+	clear: both;
 	width:100%;			
 				
 }
 
 .featured .two {
+	clear: both;
 	width:100%;			
 				
 }
@@ -239,21 +242,25 @@ body {
 }
 
 .featured .updates .maininfo {
+	clear: both;
 	width:100%;			
 	background:#f4f4f4;	
 }
 
 .featured .one {
+	clear: both;
 	width:100%;			
 				
 }
 
 .featured .two {
+	clear: both;
 	width:100%;			
 				
 }
 
 .featured .three {
+	clear: both;
 	width:100%;			
 			
 }	
@@ -280,21 +287,25 @@ body {
 	
 
 .featured .updates .maininfo {
+	clear: both;
 	width:100%;			
 	background:#f4f4f4;	
 }
 
 .featured .one {
+	clear: both;
 	width:100%;			
 				
 }
 
 .featured .two {
+	clear: both;
 	width:100%;			
 				
 }
 
 .featured .three {
+	clear: both;
 	width:100%;			
 			
 }
