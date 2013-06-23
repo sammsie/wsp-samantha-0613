@@ -138,6 +138,7 @@ button {
 .featured {
 	background:#eee;		
 }
+
 .featured .maininfo {
 	right:25%;			
 	background:#fff;		
@@ -191,9 +192,11 @@ body {
 img {
 	display: none;
 	
-}	
+}
 
-.featured .updates {
+	
+
+.featured .updates .maininfo {
 	float: none;
 	width:100%;			
 	background:#f4f4f4;	
@@ -239,7 +242,7 @@ img {
 	
 }
 
-.featured .updates {
+.featured .updates .maininfo {
 	float: none;
 	width:100%;			
 	background:#CCC;	
@@ -284,7 +287,7 @@ img {
 }
 	
 
-.featured .updates {
+.featured .updates .maininfo {
 	float: none;
 	width:100%;			
 	background:#FFF;	
