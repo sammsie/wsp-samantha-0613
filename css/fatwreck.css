@@ -178,7 +178,9 @@ button {
 
 /* Media Queries */
 
-@media screen and (max-width: 750px) {
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
 
 body {
 	background-color: #CCC;
@@ -221,7 +223,9 @@ img {
 
 /* Mobile Landscape  */
 
-@media screen and (max-width: 480px) {
+@media only screen 
+and (min-device-width : 450px) 
+and (max-device-width : 680px) {
 
 body {
 	background-color: #CCC;
@@ -263,7 +267,9 @@ img {
 
 /* Mobile Landscape  */
 
-@media screen and (max-width: 500px) {
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
 
 body {
 	background-color: #CCC;
