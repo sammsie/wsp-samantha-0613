@@ -198,26 +198,29 @@ img {
 
 .featured .updates .maininfo {
 	float: none;
-	width:100%;			
+	width:100%;
+	right:25%;			
 	background:#f4f4f4;	
 }
 
 .featured .one {
 	float: none;
-	width:100%;			
+	width:100%;
+	right:50%;			
 				
 }
 
 .featured .two {
 	float: none;
-	width:100%;			
+	width:100%;
+	left:31%;			
 				
 }
 
 .featured .three {
 	float: none;
 	width:100%;			
-				
+	left:85%;			
 }	
 
 }
@@ -250,7 +253,8 @@ img {
 
 .featured .one {
 	float: none;
-	width:100%;			
+	width:100%;		
+	left:102%;	
 				
 }
 
