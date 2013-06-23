@@ -117,17 +117,17 @@ button {
 }
 
 
-.featured,
-.maininfo,
-.updates {
+.rightcolumn,
+.midcolumn,
+.leftcolumn {
 	float:left;
 	width:100%;			
 	position:relative;
 }
 
-.one,
-.two,
-.three {
+.columnone,
+.columntwo,
+.columnthree {
 	float:left;
 	position:relative;
 	padding:0 0 1em 0;	
@@ -135,32 +135,31 @@ button {
 }
 
 
-.featured {
+.rightcolumn {
 	background:#eee;		
 }
-.featured .maininfo {
+.rightcolumn .midcolumn {
 	right:25%;			
 	background:#fff;		
 }
 
 
-.featured .updates {
+.rightcolumn .leftcolumn {
 	right:50%;			
 	background:#f4f4f4;	
 }
-.featured .one {
+.rightcolumn .columnone {
 	width:46%;			
 	left:102%;			
 }
-.featured .two {
+.rightcolumn .columntwo {
 	width:21%;			
 	left:31%;			
 }
-.featured .three {
+.rightcolumn .columnthree {
 	width:21%;			
 	left:85%;			
 }	
-
 
 
 #footer {
@@ -226,7 +225,7 @@ button {
 .featured .updates {
 	float: none;
 	right:100%;			
-	background:#f4f4f4;	
+	background:#CCC;	
 }
 .featured .one {
 	float: none;
@@ -260,7 +259,7 @@ button {
 .featured .updates {
 	float: none;
 	right:100%;			
-	background:#f4f4f4;	
+	background:#FFF;	
 }
 .featured .one {
 	float: none;
