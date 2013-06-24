@@ -189,32 +189,6 @@ body {
 		
 }
 
-.img {
-	display: none;
-	
-}
-
-	
-
-.featured .updates .maininfo {
-	width:100%;			
-	background:#f4f4f4;	
-}
-
-.featured .one {
-	width:100%;			
-				
-}
-
-.featured .two {
-	width:100%;			
-				
-}
-
-.featured .three {
-	width:100%;			
-			
-}	
 
 }
 
@@ -232,32 +206,6 @@ body {
 		
 }
 
-
-.img {
-	display: none;
-	
-}
-
-.featured .updates .maininfo {
-	width:100%;			
-	background:#f4f4f4;	
-}
-
-.featured .one {
-	width:100%;			
-				
-}
-
-.featured .two {
-	width:100%;			
-				
-}
-
-.featured .three {
-	width:100%;			
-			
-}	
-
 }
 
 /* Mobile Landscape  */
@@ -269,34 +217,6 @@ body {
 	background-color: #CCC;
 	font-family: arial;
 		
-}
-
-
-.img {
-
-	display: none;
-	
-}
-	
-
-.featured .updates .maininfo {
-	width:100%;			
-	background:#f4f4f4;	
-}
-
-.featured .one {
-	width:100%;			
-				
-}
-
-.featured .two {
-	width:100%;			
-				
-}
-
-.featured .three {
-	width:100%;			
-			
 }
 
 }
